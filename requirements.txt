@@ -1,0 +1,4 @@
+moviepy
+Pillow
+schedule
+# instagrapi  # Uncomment if you use the unofficial Instagram API
